@@ -1,0 +1,15 @@
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\bin\Debug\net6.0\Ex001.exe
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\bin\Debug\net6.0\Ex001.deps.json
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\bin\Debug\net6.0\Ex001.runtimeconfig.json
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\bin\Debug\net6.0\Ex001.dll
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\bin\Debug\net6.0\Ex001.pdb
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.AssemblyReference.cache
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\obj\Debug\net6.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfoInputs.cache
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfo.cs
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.CoreCompileInputs.cache
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\obj\Debug\net6.0\Ex001.dll
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\obj\Debug\net6.0\refint\Ex001.dll
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\obj\Debug\net6.0\Ex001.pdb
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\obj\Debug\net6.0\Ex001.genruntimeconfig.cache
+D:\GeekBrain\05_C#\Projects\Repo_Lec_01\Examples\Ex001\obj\Debug\net6.0\ref\Ex001.dll
